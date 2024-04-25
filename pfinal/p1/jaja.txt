@@ -1,0 +1,11 @@
+2 son las que escribo
+Borro linea 2 en rama 3 para merge y que haya conflicto
+
+3 tristes tigres comen trigo en un trigal
+3 personas comen 3 hamburguesas con tomate
+3 lineas escribo en 3 minutos.
+
+4 cosas vengo a decir
+4 equivocaciones porque no hice commit antes de crear 
+las 4 ramas
+y por eso la rama 3 se convirtio en main sin saberlo
