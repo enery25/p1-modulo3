@@ -6,3 +6,5 @@ Actualizo desde github en este texto tambien
 
 Hola. Hoy es 26 de abril a las 17:53, es el segundo día haciendo esta práctica y voy a editar en mi repositorio local para poder enviarlo a github.
 xoxo
+
+Vuelvo a escribir y voy a hacer otro commit.
